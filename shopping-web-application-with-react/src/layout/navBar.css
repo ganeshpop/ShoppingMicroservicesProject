@@ -1,0 +1,46 @@
+
+.navMenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: "IBM Plex Sans", monospace;
+}
+nav {
+    background: #1D2026;
+}
+nav .menuItems {
+
+    list-style: none;
+    display: flex;
+}
+nav .menuItems .menuLi {
+    margin: 10px;
+}
+nav .menuItems .menuLi .menuA {
+    text-decoration: none;
+    color: #8f8f8f;
+    font-size: 20px;
+    font-weight: 100;
+    padding-top: 2px;
+    transition: all 0.5s ease-in-out;
+    position: relative;
+    text-transform: uppercase;
+}
+nav .menuItems .menuLi .menuA::before {
+    content: attr(data-item);
+    transition: 0.5s;
+    color: white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 0;
+    overflow: hidden;
+}
+nav .menuItems .menuLi .menuA:hover::before {
+    width: 100%;
+    transition: all 0.5s ease-in-out;
+}
