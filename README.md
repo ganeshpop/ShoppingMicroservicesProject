@@ -5,7 +5,7 @@
 | ------ | ------ |
 |Shopping Management Eureka Server  | Spring Web, Eureka Server|
 |Shopping Management Configuration Server  | Spring Cloud Config Server|
-|Shopping Management Web Application  | Spring Web MVC, Spring Cloud, Rest Template, Hibernate Validator, JSTL, lombok, Spring Actuator, Spring AOP, GitHub Resilience4j, Eureka Client|
+|Shopping Management Web Application  | Spring Web MVC, Spring Cloud, Spring Actuator, Spring AOP, Rest Template, Hibernate Validator, JSTL, Lombok, GitHub Resilience4j, Eureka Client|
 
  #
 
