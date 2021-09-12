@@ -5,7 +5,7 @@
 | ------ | ------ |
 |Shopping Management Eureka Server  | Spring Web, Eureka Server|
 |Shopping Management Configuration Server  | Spring Cloud Config Server|
-|Shopping Management Web Application  | Spring Cloud Config Server|
+|Shopping Management Web Application  | Spring Web MVC, Spring Cloud, Rest Template, Eureka Client|
 
  #
 
