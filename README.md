@@ -1,7 +1,7 @@
 # Microservices With Spring Boot
 ####  Projects and Specifications:
  #
-| Project Name | Develoed With |
+| Project Name | Developed With |
 | ------ | ------ |
 |Shopping Management Eureka Server  | Spring Web, Eureka Server|
 |Shopping Management Configuration Server  | Spring Cloud Config Server|
