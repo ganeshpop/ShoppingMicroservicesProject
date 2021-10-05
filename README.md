@@ -34,6 +34,8 @@ https://github.com/ganeshpop/shopping-configuration-repository
 ### Note:
 *  catalog-service project requires SQL table created externally, the table creation and data insertion commands are located in [TableCreation.sql](https://github.com/ganeshpop/ShoppingMicroservicesProject/blob/master/catalog-service/TableCreation.sql) File. 
 
+### Note:
+*  The Project ScreenShots are available at [Snapshots ShoppingMicroservicesProject](https://docs.google.com/document/d/16szKvVWvMZFH1M2HnoOKgjPyLOEtU1GUvBZhH5NYDHo/edit?usp=sharing) File. 
 
 ## ✨By G S Sai Ganesh Koundinya✨
 [![N|Solid](https://cdn.business2community.com/wp-content/uploads/2016/02/View-my-LinkedIn-profile-image-3-300x140.png.png)](https://www.linkedin.com/in/s-sai-ganesh-koundinya-gollapudi-25285118a/)
